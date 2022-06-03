@@ -1,0 +1,13 @@
+{
+    "minPlayers" : 3,
+    "maxPlayers" : 8,
+    "minPlaytime" : 60,
+    "maxPlaytime" : 240,
+    "minAge" : 0,
+    "maxAge" : null,
+    "votes" : 10,
+    "description" : "Un juego de rol",
+    "name" : "Seapunk Unleashed"
+
+
+}

@@ -1,0 +1,12 @@
+{
+    "name" : "Unchained Games",
+    "phone" : "658149560",
+    "description" : "",
+    "location" : "37.3750879,-6.0550569",
+    "owners" : ["María Isabel Guerrero", "Pedro J Paul"],
+    "availableTables" : 20,
+    "openingHours" : "09:30",
+    "closingHours" : "20:00",
+    "available" : true
+
+}

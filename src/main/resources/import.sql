@@ -1,0 +1,13 @@
+
+
+
+//INSERT INTO USER_ENTITY(id, username, full_name, email, role, biography, latlong, birthdate, password, avatar) values ('c0a83801-8084-19f7-8180-840b614b0001', 'vicgutierrez', 'Víctor Gutierrez', 'victorgutierrez@gmail.com', 'USER', 'Esta es mi bio', '37.4126131,-5.9256547', '1997-09-29', 'LaSuperContraseña', 'https://www.googleapis.com/download/storage/v1/b/gameetstorage/o/84777833_peanutbutter.jpg?generation=1651566800001643&alt=media');
+//INSERT INTO USER_ENTITY(id, username, full_name, email, role, biography, latlong, birthdate, password, avatar) values ('c0a83801-8084-19f7-8180-840dd5a80002', 'basstreb', 'Daniel Lozano', 'basstreb@gmail.com', 'USER', 'Esta es mi bio', '37.4126131,-5.9256547', '1992-11-05', 'LaSuperContraseña', 'https://www.googleapis.com/download/storage/v1/b/gameetstorage/o/84777833_peanutbutter.jpg?generation=1651566800001643&alt=media');
+//INSERT INTO USER_ENTITY(id, username, full_name, email, role, biography, latlong, birthdate, password, avatar) values ('c0a83801-8084-19f7-8180-840ebfbc0003', 'ygramull', 'Álvaro Salcedo', 'ygramull@gmail.com', 'USER', 'Esta es mi bio', '37.4126131,-5.9256547', '1995-08-28', 'LaSuperContraseña', 'https://www.googleapis.com/download/storage/v1/b/gameetstorage/o/84777833_peanutbutter.jpg?generation=1651566800001643&alt=media');
+
+
+INSERT INTO COMMERCIAL_PROPERTY( name, phone, description, location, image_url, available, available_tables, opening_hours, closing_hours) values ( 'Unchained Games', '658149560', '', '37.3750879,-6.0550569', 'https://www.googleapis.com/download/storage/v1/b/gameetstorage/o/1423143982_unchained_games.png?generation=1651576927418881&alt=media', true, 20, '09:00', '19:00');
+INSERT INTO COMMERCIAL_PROPERTY( name, phone, description, location, image_url, available, available_tables, opening_hours, closing_hours) values ( 'Nostromo', '954217629', '', '37.388916,-6.0006617', 'https://www.googleapis.com/download/storage/v1/b/gameetstorage/o/560415973_nostromo.png?generation=1652822803916362&alt=media', true, 20, '09:00', '19:00');
+INSERT INTO COMMERCIAL_PROPERTY( name, phone, description, location, image_url, available, available_tables, opening_hours, closing_hours) values ( 'Arigatô', '955547492', '', '37.394015,-5.995513', 'https://www.googleapis.com/download/storage/v1/b/gameetstorage/o/1495197506_arigato.png?generation=1652822713840968&alt=media', true, 20, '09:00', '19:00');
+
+INSERT INTO GAME( name, available, min_players, max_players, min_playtime, max_playtime, min_age, max_age, votes, description, image_url) values ( 'Seapunk Unleashed', true, 3, 8, 60, 240, 0, 0, 10.0, '', 'https://www.googleapis.com/download/storage/v1/b/gameetstorage/o/1756847831_seapunk-unleashed.jpg?generation=1651576999367554&alt=media')

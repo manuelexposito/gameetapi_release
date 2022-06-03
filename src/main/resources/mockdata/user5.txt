@@ -1,0 +1,17 @@
+{
+    "avatar" : null,
+ "username": "atziry302",
+    "fullName": "Diana Gonzalez",
+    "email": "atziry302@gmail.com",
+    "role": "USER",
+    "biography": "Esta es mi bio",
+    "latlng": "37.4126131,-5.9256547",
+    "interests": [
+        "juegos de rol",
+        "ciencia-ficcion",
+        "deporte"
+    ],
+    "birthdate": "1996-01-28",
+    "password": "LaSuperContraseña",
+    "password2":"LaSuperContraseña"
+}

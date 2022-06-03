@@ -1,0 +1,11 @@
+{
+    "avatar" : null,
+"username" : "eladmin",
+    "fullName" : "El Admin",
+    "birthdate" : "1997-04-26",
+    "biography" : "Esta es mi bio",
+    "email" : "eladmin@admin.com",
+    "password": "LaSuperContraseña",
+    "password2":"LaSuperContraseña",
+"latlng" : "37.4126131,-5.9256547"
+}

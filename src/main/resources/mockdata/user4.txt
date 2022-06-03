@@ -1,0 +1,17 @@
+{
+    "avatar" : null,
+ "username": "basstreb",
+    "fullName": "Daniel Lozano",
+    "email": "basstreb@gmail.com",
+    "role": "USER",
+    "biography": "Esta es mi bio",
+    "latlng": "37.4126131,-5.9256547",
+    "interests": [
+        "juegos de rol",
+        "ciencia-ficcion",
+        "deporte"
+    ],
+    "birthdate": "1997-04-26",
+    "password": "LaSuperContraseña",
+    "password2":"LaSuperContraseña"
+}

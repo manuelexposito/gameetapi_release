@@ -1,0 +1,12 @@
+{
+    "name" : "Nostromo",
+    "phone" : "954217629",
+    "description" : "",
+    "location" : "37.3874944,-6.0550569",
+    "owners" : ["Señor Nostromo"],
+    "availableTables" : 20,
+    "openingHours" : "09:30",
+    "closingHours" : "20:00",
+    "available" : true
+
+}
